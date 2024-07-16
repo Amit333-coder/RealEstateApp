@@ -1,7 +1,12 @@
-function newCompo(){
-    return (<div>
-        The farmer is the king.
-    </div>)
+
+
+function NewCompo(){
+    return(
+        <div>
+            this is the beautiful insignia.
+        </div>
+    )
 }
 
-export default newCompo;
+export default NewCompo;
+
